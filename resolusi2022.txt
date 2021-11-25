@@ -1,0 +1,5 @@
+Resolusi untuk tahun 2022
+- Bisa menguasai PHP
+- Bisa menguasai Javascript
+- Bisa membuat Website
+- Dapat sertifikat Full-Stack Web Dev dari BWA
