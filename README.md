@@ -1,2 +1,2 @@
 # ink-resolusi
-Repo untuk resolusi saya tahun 2022
+Repository untuk resolusi saya tahun 2022
