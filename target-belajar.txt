@@ -1,0 +1,34 @@
+Backend:
+1. OOP Dasar PHP -> WPU
+2. PHP MVC -> WPU
+3. Node JS dasar -> BWA
+4. Laravel: Migration, Seeder, and Factory -> BWA
+5. PHP Laravel -> BWA
+6. Blade Templating Larabel 8 -> BWA
+7. Laravel 8 (opsional) -> WPU
+
+
+Frontend:
+1. Vanilla Javascript -> BWA
+2. ES6 -> BWA
+3. DOM Javascript -> WPU
+4. React JS -> BWA
+5. Vue JS -> BWA
+
+
+Setelah semua selesai (DONE), ikuti kelas BWA yang sudah saya beli:
+1. Fullstack Web Dev: Website Travel
+2. Fullstack Web Dev: PHP Laravel & Vue JS
+
+start: 26 Desember 2021
+bismillah..
+
+
+*pembelajaran yg di backend & frontend gratis, yg kelas bwa bayar(dapat sertifikat setelah selesai mengikuti kelas).
+kelas pertama 111rb & kelas kedua 116rb, total 227rb.*
+semangat! semoga bermanfaat di masa mendatang!
+
+
+
+WPU = Web Programming Unpas
+BWA = buildwithangga.com
